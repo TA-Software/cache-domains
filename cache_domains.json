@@ -32,6 +32,11 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
+			"name": "garena",
+			"description": "CDN for garena games",
+			"domain_files": ["garena.txt"]
+		},
+		{
 			"name": "hirez",
 			"description": "CDN for hirez",
 			"domain_files": ["hirez.txt"]
