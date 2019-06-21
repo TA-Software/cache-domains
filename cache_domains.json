@@ -1,10 +1,12 @@
 {
 	"cache_domains": [
+		/**
 		{
 			"name": "apple",
 			"description": "CDN for apple",
 			"domain_files": ["apple.txt"]
 		},
+		
 		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
@@ -109,6 +111,18 @@
 			"domain_files": ["xboxlive.txt"],
 			"mixed_content": true
 		}
+		**/
+		{
+			"name": "garena",
+			"description": "CDN for garena games",
+			"domain_files": ["garena.txt"]
+		},
+		{
+			"name": "steam",
+			"description": "CDN for steam platform",
+			"domain_files": ["steam.txt"]
+		}
+		
 	]
 }
 
